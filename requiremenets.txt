@@ -1,0 +1,25 @@
+Visual Studio Community 2022
+ ↳ [工作附載]
+     ↳ ASP.NET與網頁程式開發
+     ↳ .NET桌面開發
+     ↳ 資料儲存和處理
+     ↳ Visual Studio擴充功能開發
+ ↳ [個別元件]
+   ↳ .NET
+     ↳ .NET Framework 4.8目標套件
+     ↳ .NET Framework 4.8.1 SDK
+     ↳ .NET Framework 4.8.1目標套件
+     ↳ .NET Framework 專案與項目範本
+   ↳ SDK程式褲和架構
+     ↳ TypeScript 4.7 SDK
+   ↳ 程式碼工具
+     ↳ DGML編輯器
+     ↳ Git for Windows
+     ↳ Help Viewer
+     ↳ LINQ to SQL工具
+     ↳ NuGet 套件管理員
+     ↳ NuGet 目標與建置工作
+     ↳ 文字範本轉換
+     ↳ 相依性驗證
+     ↳ 類別設計工具
+   
